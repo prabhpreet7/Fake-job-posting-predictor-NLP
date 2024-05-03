@@ -1,5 +1,5 @@
 xgboost==0.90
-tqdm==4.42.1
+tqdm==4.66.3
 seaborn==0.10.0
 scikit-learn==0.22.1
 pandas==1.0.1
