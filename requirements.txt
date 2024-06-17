@@ -1,7 +1,7 @@
 xgboost==0.90
 tqdm==4.42.1
 seaborn==0.10.0
-scikit-learn==0.22.1
+scikit-learn==1.5.0
 pandas==1.0.1
 numpy==1.18.1
 nltk==3.4.5
